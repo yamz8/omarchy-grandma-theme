@@ -1,0 +1,34 @@
+# Grandma — in loving memory.
+# Basalt walls and plum sweater for the base, cream linen and pearls for text,
+# terracotta roofs, silvery sage, Kinneret water, dusk lavender, the rose blouse.
+mode = "dark"
+
+accent = "#d98a62"
+selection = "#4a3d42"
+muted = "#7a6e6a"
+
+background = "#2a2426"
+dark_background = "#211c1e"
+darker_background = "#181415"
+lighter_background = "#3a3134"
+
+foreground = "#ece3d4"
+dark_foreground = "#8a7f78"
+light_foreground = "#d4c9b8"
+bright_foreground = "#f7f1e6"
+
+red = "#d9708a"
+yellow = "#e3c07a"
+orange = "#e0926a"
+green = "#a8b89a"
+cyan = "#9fc4c8"
+blue = "#8fa8c8"
+magenta = "#b8a0c8"
+brown = "#8a5a3e"
+
+bright_red = "#eb8fa5"
+bright_yellow = "#f0d498"
+bright_green = "#c2d1b4"
+bright_cyan = "#bcdadd"
+bright_blue = "#afc3dc"
+bright_magenta = "#d0bddc"
