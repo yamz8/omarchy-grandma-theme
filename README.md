@@ -2,7 +2,7 @@
 
 A warm, quiet theme for [Omarchy](https://omarchy.org), made in loving memory of my grandma.
 
-![Preview](preview.png)
+![Grandma under the terracotta roofs](backgrounds/2-terracotta-roofs.jpg)
 
 Every color comes from the photos of her:
 
